@@ -37,6 +37,8 @@
 // let firstName = 'Anastasiia';
 // let middleName = 'Andriivna';
 // let lastName = 'Tushchenko';
+// let person = (firstName + ' ' + middleName + ' ' + lastName);
+// console.log(person);
 // let person = {
 //     firstName: 'Anastasiia',
 //     middleName: 'Andriivna',
