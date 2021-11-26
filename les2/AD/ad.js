@@ -19,6 +19,10 @@
 // } else {
 //     result = 'Багато';
 // }
+// let result === a + b < 4 ?
+//     console.log(result);
+// if (true) console.log('Мало');
+// else console.log('Багато');
 
 
 
